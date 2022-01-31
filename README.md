@@ -4,4 +4,4 @@ Initial repository for cs2400
 Name: Benjamin Dinh
 Video Link:
 Screencast Software:
-IDE: Vs Code
+IDE: VsCode
